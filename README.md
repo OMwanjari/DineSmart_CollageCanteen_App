@@ -22,8 +22,7 @@ This project is licensed under the [MIT License](LICENSE).
 [Link to Demo](https://yourdemo.link)
 
 ## Screenshots
-![Screenshot 1](1.png | width=200)
-![Screenshot 2](2.png)
+<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/1.png"  width="200" height="400" />
 
 
 
