@@ -32,5 +32,7 @@ This project is licensed under the [MIT License](LICENSE).
 <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/7.png"  width="200" height="400" />
 <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/8.png"  width="200" height="400" />
 <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/9.png"  width="200" height="400" />
+  <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/10.png"  width="200" height="400" />
+
 </p>
 
