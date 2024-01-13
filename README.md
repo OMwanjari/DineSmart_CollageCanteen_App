@@ -23,23 +23,23 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 <p align =center>
-![Screenshot 1]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/1.png"  width="200" height="400" />
-![Screenshot 2]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/2.png"  width="200" height="400" />
+![ 1]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/1.png"  width="200" height="400" />
+![ 2]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/2.png"  width="200" height="400" />
 </p>
 <p align =center>
-![Screenshot 3]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/3.png"  width="200" height="400" />
-![Screenshot 4]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/4.png"  width="200" height="400" />
+![ 3]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/3.png"  width="200" height="400" />
+![ 4]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/4.png"  width="200" height="400" />
 </p>
 <p align =center>
-![Screenshot 5]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/5.png"  width="200" height="400" />
-![Screenshot 6]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/6.png"  width="200" height="400" />
+![ 5]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/5.png"  width="200" height="400" />
+![ 6]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/6.png"  width="200" height="400" />
 </p>
 <p align =center>
-![Screenshot 7]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/7.png"  width="200" height="400" />
-![Screenshot 8]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/8.png"  width="200" height="400" />
+![ 7]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/7.png"  width="200" height="400" />
+![ 8]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/8.png"  width="200" height="400" />
 </p>
 <p align =center>
-![Screenshot 9]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/9.png"  width="200" height="400" />
-![Screenshot 10] <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/10.png"  width="200" height="400" />
+![ 9]<img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/9.png"  width="200" height="400" />
+![ 10] <img src="https://github.com/OMwanjari/DineSmart_CollageCanteen_App/blob/main/10.png"  width="200" height="400" />
 </p>
 
