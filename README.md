@@ -19,7 +19,7 @@ DineSmart is a cutting-edge mobile application tailored specifically for college
 This project is licensed under the [MIT License](LICENSE).
 
 ## Demo
-[Link to Demo](https://yourdemo.link)
+[Link to Demo](https://youtu.be/_qvHtC45djM)
 
 ## Screenshots
 <p align =center>
