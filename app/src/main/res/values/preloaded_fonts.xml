@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amita</item>
+        <item>@font/audiowide</item>
+        <item>@font/changa</item>
+        <item>@font/cookie</item>
+        <item>@font/montserrat_medium</item>
+        <item>@font/poppins_thin</item>
+        <item>@font/quicksand</item>
+        <item>@font/quicksand_bold</item>
+        <item>@font/quicksand_medium</item>
+        <item>@font/rubik</item>
+    </array>
+</resources>

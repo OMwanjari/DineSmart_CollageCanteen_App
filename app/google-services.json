@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551114412832",
+    "project_id": "mosapp-20469",
+    "storage_bucket": "mosapp-20469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551114412832:android:19928fd5c10688590abd45",
+        "android_client_info": {
+          "package_name": "com.example.dinesmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUTiv6-8x_n4LZqqPxDaGFJ6IFBFgwF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
